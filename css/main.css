@@ -19,5 +19,17 @@ nav ul {
 }
 
 #contents, #favs, #facts, #types {
-  color: #fff
+  color: ##93a1a1
+}
+
+.wrapper .dfn:nth-child(1) {
+  background-color: #b58900;
+}
+
+.dfn strong:nth-child(2) {
+  color: #fff;
+}
+
+a .no-highlight {
+  background-color: #719e07
 }
