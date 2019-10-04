@@ -22,13 +22,18 @@ nav ul {
   color: #93a1a1;
 }
 
-.wrapper .dfn:nth-child(1) {
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
-.dfn strong:nth-child(2) {
+.dfn p + strong {
   color: #fff;
 }
+
+/*
+.dfn strong:nth-child(2) {
+  color: #fff;
+} */
 
 a {
   background-color: #719e07;
