@@ -19,7 +19,7 @@ nav ul {
 }
 
 #contents, #favs, #facts, #types {
-  color: ##93a1a1
+  color: #93a1a1;
 }
 
 .wrapper .dfn:nth-child(1) {
@@ -30,6 +30,10 @@ nav ul {
   color: #fff;
 }
 
-a .no-highlight {
-  background-color: #719e07
+a {
+  background-color: #719e07;
+}
+
+.no-highlight {
+  background-color:#fdf6e3
 }
