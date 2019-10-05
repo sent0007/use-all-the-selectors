@@ -39,7 +39,7 @@ a {
 }
 
 .no-highlight {
-  background-color: #eee8d5;
+  background-color: #fdf6e3;
 }
 
 h2 + ul li a:last-child {
@@ -50,7 +50,7 @@ ol > li:first-child {
   color: #719e47;
 }
 
-ol > li:last-child{
+ol > li:last-child {
   color: #2aa198;
 }
 
@@ -62,6 +62,6 @@ ol > li:last-child{
   background-color: #586e75;
 }
 
-.types li:nth-child(3){
+.types li:nth-child(3n){
   background-color: #d04b16;
 }
