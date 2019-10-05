@@ -1,5 +1,5 @@
 body {
-  background-color: #fdf6e3
+  background-color: #fdf6e3;
 }
 
 header, footer {
@@ -29,22 +29,19 @@ nav ul {
 .dfn p + strong {
   color: #fff;
 }
-/*
-.dfn strong:nth-child(2) {
-  color: #fff;
-} */
 
 a {
   background-color: #719e07;
 }
 
-.no-highlight {
+nav .no-highlight {
   background-color: #fdf6e3;
 }
 
-h2 + ul li a:last-child {
-  background-color: #2694d8;
+main a{
+  background-color:#2694d8;
 }
+
 
 ol > li:first-child {
   color: #719e47;
